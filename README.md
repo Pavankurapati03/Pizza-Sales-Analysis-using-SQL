@@ -57,9 +57,3 @@ The project is structured into three levels of queries: Basic, Intermediate, and
 ## Conclusion
 This project provided critical insights into pizza sales that can help the franchise improve its business operations, focus on high-revenue pizza types, and optimize its strategy based on customer ordering behavior.
 
----
-
-## Project Structure
-- **SQL Scripts**: Contains all SQL queries used in this analysis.
-- **Datasets**: The datasets used for this analysis (if applicable to share).
-- **Results**: Insights and outputs from the queries.
